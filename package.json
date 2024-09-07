@@ -5,12 +5,11 @@
   "scripts": {
     "start": "node tts.js",
     "dev": "nodemon tts.js"
-    },
-  "dependencies": {
-    "say": "^0.16.0"
   },
-  "devDependencies": {},
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "say": "^0.16.0"
+  }
 }
