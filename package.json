@@ -1,0 +1,16 @@
+{
+  "name": "saytest",
+  "version": "1.0.0",
+  "main": "tts.js",
+  "scripts": {
+    "start": "node tts.js",
+    "dev": "nodemon tts.js"
+    },
+  "dependencies": {
+    "say": "^0.16.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
